@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "d:\\NU Manila College Files\\AY 2026-2027, Term 2\\MOBILE PROGRAMMING (CTMOBPGL)\\romano_mobprogAY2627\\romano_mobprog\\web\\index.html"
+        }
+    ]
+}
